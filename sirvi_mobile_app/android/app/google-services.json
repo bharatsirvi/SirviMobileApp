@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "825414315663",
+    "project_id": "sirviapp-8be80",
+    "storage_bucket": "sirviapp-8be80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825414315663:android:71197bd9e584263161cafa",
+        "android_client_info": {
+          "package_name": "com.example.sirvi_mobile_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaajsJv-lhXVLOW0YdJ_m094p0RPIgY-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
